@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Loading.html"
+status = 200
